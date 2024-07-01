@@ -1,0 +1,14 @@
+.bounding-box{
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    /* background-image: url("https://www.emoji.co.uk/files/apple-emojis/smileys-people-ios/31-neutral-face.png"); */
+    background-position: center;
+    background-size:contain;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+}
+h1{
+    background-color: aqua;
+}
